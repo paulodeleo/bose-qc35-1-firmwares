@@ -1,0 +1,11 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x400C" PRODUCTNAME="Bose QuietComfort 35">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="downloads.bose.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.5.828" URLPATH="/ced/PRE_RRA/wolfcastle/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_2.5.5_stack_plus_app.dfu" LENGTH="1810508" NOFORCE="1" REVISION="2.5.5.828" SUBID="0" />
+        <IMAGE CRC="0XDD944D55" FILENAME="Wolfcastle_2.5.5_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.5.5.828" SUBID="1" TARGET="1" />
+        <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_2.5.5_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.5.5.828" SUBID="2" TARGET="3" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
